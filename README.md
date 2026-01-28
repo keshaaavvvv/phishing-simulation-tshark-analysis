@@ -1,5 +1,7 @@
 🎯 PHISHING CLICK DETECTION – TSHARK NETWORK ANALYSIS PROJECT
+
 📸 APPLICATION / LAB PREVIEW
+
 Phishing Page Simulation
 A locally hosted phishing-style verification page used to simulate user interaction in a controlled lab environment.
 <img width="1920" height="1020" alt="2026-01-27 (10)" src="https://github.com/user-attachments/assets/802cb37b-ea0c-4ea0-b11b-fd889b76feaf" />
@@ -97,3 +99,4 @@ This is an entry-level SOC / Blue Team project designed to demonstrate:
 
 🎯 FINAL STATEMENT
 This project represents my hands-on learning in phishing analysis and network security.
+
